@@ -36,7 +36,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhardwajshivam15&show_icons=true&locale=en" alt="bhardwajshivam15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhardwajshivam15&" alt="bhardwajshivam15" /></p>
-
+&nbsp;
 <div bacground-color="white" style="display: flex; flex-direction: row;">
  <img src="https://leetcard.jacoblin.cool/shivambhardwaj15?ext=contest" height="350px">
 </div>
+&nbsp;
