@@ -37,6 +37,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhardwajshivam15&" alt="bhardwajshivam15" /></p>
 
-<div style="display: flex; flex-direction: row;">
+<div bacground-color="white" style="display: flex; flex-direction: row;">
  <img src="https://leetcard.jacoblin.cool/shivambhardwaj15?ext=contest" height="350px">
 </div>
