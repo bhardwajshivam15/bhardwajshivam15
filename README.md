@@ -17,7 +17,7 @@
 
 - 📫 How to reach me *www.linkedin.com/in/shivambhardwaj15*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1quGmGDHt_lHipk2e03jmQyu1QV-qRRGA/view](https://drive.google.com/file/d/1quGmGDHt_lHipk2e03jmQyu1QV-qRRGA/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1quGmGDHt_lHipk2e03jmQyu1QV-qRRGA/view](https://drive.google.com/file/d/11SwtAqzgh8XPLPDi_CvL4qIU23bpBQtx/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
